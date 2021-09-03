@@ -1,0 +1,7 @@
+you just bought 2 of 1205 with product name 5star(m) and category chocolate
+ you just bought 3 of 1206 with product name 5star(l) and category chocolate
+ you just bought 4 of 1108 with product name carrot and category vegetable
+ you just bought 5 of 1109 with product name beetroot and category vegetable
+ you just bought 8 of 1200 with product name onion and category vegetable
+ 
+ your total bill is 290
